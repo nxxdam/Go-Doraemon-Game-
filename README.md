@@ -1,5 +1,5 @@
-# Hey-Doraemon-Game-
-Hey Doraemon! (Game) Harvard University
+# Go-Doraemon-Game-
+Go Doraemon! (Game) Harvard University
 
 -Developed a game called "Hey Doraemon!" using Scratch, a visual programming language, as part of a project at Harvard University.
 
